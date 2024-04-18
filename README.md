@@ -1,20 +1,21 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Latgalian-Cairo is an example treebank to provide minimal dataset for Latgalian based on the Cairo sample sentences. Created by [AI Lab](http://ailab.lv) at Institute of Mathematics and Computer Science, University of Latvia.
 
 
 # Introduction
 
-...
+This treebank was developed as a proof-of-concept by the team developing Latvian UD Treebank (UD_Latvian-LVTB). It contains the 20 Cairo example sentences and is as far as we are know the only Latgalian treebank in existance.
 
 
 # Acknowledgments
 
-...
+This work was supported by the State Research Programme's project [Research on Modern Latvian Language and Development of Language Technology](http://www.digitalhumanities.lv/projects/vpp-late/) under the grant agreement No. VPP-LETONIKA-2021/1-0006.
+
 
 ## References
 
-* (citation)
+* Pretkalniņa L., Rituma L., Saulīte B. Deriving enhanced Universal Dependencies from a hybrid dependency-constituency treebank. Proceedings of the 21sh International Conference Text, Speech, and Dialogue, LNCS, Vol. 11107, Springer Link, 2018, pp. 95-105
 
 
 # Changelog
@@ -30,12 +31,12 @@ License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples
 Lemmas: manual native
-UPOS: manual native
-XPOS: not available
-Features: manual native
-Relations: manual native
-Contributors: Pretkalniņa, Lauma
-Contributing: here
+UPOS: converted from manual
+XPOS: manual native
+Features: converted from manual
+Relations: converted from manual
+Contributors: Pretkalniņa, Lauma; Nešpore-Bērzkalne, Gunta
+Contributing: elsewhere
 Contact: lauma@ailab.lv
 ===============================================================================
 </pre>
