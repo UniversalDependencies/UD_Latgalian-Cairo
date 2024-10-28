@@ -132,7 +132,7 @@
 # text = Jim nav ni jausmys, kurs tū pīraksteja.
 1	Jim	jis	PRON	pp3mpdn	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-ltg-Cairo-p12s1w1
 2	nav	nabyut	VERB	vmnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p12s1w2
-3	ni	ni	PART	q	_	4	discourse	4:discourse	LvtbNodeId=a-ltg-Cairo-p12s1w3
+3	ni	ni	PART	q	_	4	advmod:neg	4:advmod:neg	LvtbNodeId=a-ltg-Cairo-p12s1w3
 4	jausmys	jausma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p12s1w4|SpaceAfter=No
 5	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-ltg-Cairo-p12s1w5
 6	kurs	kurs	DET	pr0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	8:nsubj	LvtbNodeId=a-ltg-Cairo-p12s1w6
@@ -170,7 +170,7 @@
 3	mašynu	mašyna	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	LvtbNodeId=a-ltg-Cairo-p15s1w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	7	punct	7.1:punct	LvtbNodeId=a-ltg-Cairo-p15s1w4
 5	bet	bet	CCONJ	cc	_	7	cc	7.1:cc	LvtbNodeId=a-ltg-Cairo-p15s1w5
-6	juo	jis	PRON	pp3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	7:det	LvtbNodeId=a-ltg-Cairo-p15s1w6
+6	juo	jis	PRON	pp3msgn	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	7:nmod	LvtbNodeId=a-ltg-Cairo-p15s1w6
 7	bruoļs	bruoļs	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	2	conj	7.1:nsubj	LvtbNodeId=a-ltg-Cairo-p15s1w7
 7.1	nopirka	nopirkt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	_	_	2:conj	LvtbNodeId=a-ltg-Cairo-p15s1x4
 8	tik	tik	PART	q	_	9	advmod:emph	9:advmod:emph	LvtbNodeId=a-ltg-Cairo-p15s1w8

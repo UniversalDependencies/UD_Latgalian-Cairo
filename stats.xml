@@ -66,11 +66,12 @@
     <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- pīguoduota -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="26">
+  <deps unique="27">
     <dep name="acl">1</dep>
     <dep name="advcl">2</dep>
     <dep name="advmod">6</dep>
     <dep name="advmod:emph">2</dep>
+    <dep name="advmod:neg">1</dep>
     <dep name="amod">2</dep>
     <dep name="appos">1</dep>
     <dep name="case">4</dep>
@@ -78,13 +79,13 @@
     <dep name="ccomp">2</dep>
     <dep name="conj">10</dep>
     <dep name="csubj">1</dep>
-    <dep name="det">7</dep>
-    <dep name="discourse">3</dep>
+    <dep name="det">6</dep>
+    <dep name="discourse">2</dep>
     <dep name="fixed">1</dep>
     <dep name="flat:name">2</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">3</dep>
-    <dep name="nmod">2</dep>
+    <dep name="nmod">3</dep>
     <dep name="nsubj">21</dep>
     <dep name="obj">12</dep>
     <dep name="obl">9</dep>
