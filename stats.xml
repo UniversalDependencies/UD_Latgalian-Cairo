@@ -19,10 +19,10 @@
     <tag name="ADP">3</tag><!-- deļ, iz, nu -->
     <tag name="ADV">8</tag><!-- kai, kod, leidza, mudri, partū, puoruok, tod, vakar -->
     <tag name="CCONJ">10</tag><!-- i, bet, ni, voi -->
-    <tag name="DET">6</tag><!-- itei, kaids, muns, sova, sovs, tei -->
+    <tag name="DET">7</tag><!-- itei, kaids, kurs, muns, sova, sovs, tei -->
     <tag name="NOUN">27</tag><!-- mašyna, viestule, bronza, bruoļs, draudzine, dzeršona, dīna, golvyspiļsāta, jausma, kruosa -->
     <tag name="PART">5</tag><!-- voi, koč, ni, tik -->
-    <tag name="PRON">20</tag><!-- jis, tu, es, jei, tys, jī, kas, kurs -->
+    <tag name="PRON">19</tag><!-- jis, tu, es, jei, tys, jī, kas -->
     <tag name="PROPN">15</tag><!-- Pīters, Mareja, Brauna, Džeina, Fraņceja, Igvasu, Parize, Sems, Smits -->
     <tag name="PUNCT">33</tag><!-- ., ,, ?, -, ! -->
     <tag name="SCONJ">3</tag><!-- ka, nakai -->
@@ -57,7 +57,7 @@
     <feat name="PronType" value="Dem" upos="DET,PRON">4</feat><!-- Itei, tamā, tuo, tū -->
     <feat name="PronType" value="Ind" upos="DET">1</feat><!-- kaida -->
     <feat name="PronType" value="Prs" upos="DET,PRON">19</feat><!-- jis, tu, jei, Es, Jai, Jim, Maņ, Muns, jam, juo -->
-    <feat name="PronType" value="Rel" upos="PRON">2</feat><!-- kuo, kurs -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">2</feat><!-- kuo, kurs -->
     <feat name="Reflex" value="Yes" upos="VERB">4</feat><!-- apsaskuove, ceņtēs, ruodīs, verīs -->
     <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- variesi -->
     <feat name="Tense" value="Past" upos="VERB">17</feat><!-- pīraksteja, Navarēja, apsaskuove, ceņtēs, dabuoja, izauga, lyka, naizdareja, navarieju, nūkruosuoja -->
@@ -69,27 +69,29 @@
     <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- pīguoduota -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="25">
+  <deps unique="27">
     <dep name="acl">1</dep>
-    <dep name="advcl">1</dep>
+    <dep name="advcl">2</dep>
     <dep name="advmod">6</dep>
+    <dep name="advmod:emph">2</dep>
+    <dep name="advmod:neg">1</dep>
     <dep name="amod">2</dep>
     <dep name="appos">1</dep>
-    <dep name="case">5</dep>
+    <dep name="case">4</dep>
     <dep name="cc">10</dep>
     <dep name="ccomp">2</dep>
     <dep name="conj">10</dep>
     <dep name="csubj">1</dep>
-    <dep name="det">7</dep>
-    <dep name="discourse">5</dep>
+    <dep name="det">6</dep>
+    <dep name="discourse">2</dep>
     <dep name="fixed">1</dep>
     <dep name="flat:name">2</dep>
     <dep name="iobj">2</dep>
-    <dep name="mark">2</dep>
-    <dep name="nmod">2</dep>
+    <dep name="mark">3</dep>
+    <dep name="nmod">3</dep>
     <dep name="nsubj">21</dep>
     <dep name="obj">12</dep>
-    <dep name="obl">10</dep>
+    <dep name="obl">9</dep>
     <dep name="orphan">3</dep>
     <dep name="punct">33</dep>
     <dep name="root">20</dep>
