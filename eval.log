@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Latgalian-Cairo:
-commit b9de27bc84cdf90e2cf25e15056fd2f6fd261cec
+commit f8f99b4ddd21348e41c1b5a5edaec210c8a96f8b
+Merge: 6b45c20 12b331d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 10:45:51 2024 +0200
 Size: counted 170 of 170 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
