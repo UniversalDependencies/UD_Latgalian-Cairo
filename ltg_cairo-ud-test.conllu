@@ -5,7 +5,7 @@
 1	Meitine	meitine	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p1s1w1
 2	pīraksteja	raksteit	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p1s1w2
 3	viestuli	viestule	NOUN	ncfsa5	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	LvtbNodeId=a-ltg-Cairo-p1s1w3
-4	sovai	sova	DET	ps0fsdn	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	5:det	LvtbNodeId=a-ltg-Cairo-p1s1w4
+4	sovai	sova	PRON	ps0fsdn	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	5:det	LvtbNodeId=a-ltg-Cairo-p1s1w4
 5	draudzinei	draudzine	NOUN	ncfsd5	Case=Dat|Gender=Fem|Number=Sing	2	iobj	2:iobj	LvtbNodeId=a-ltg-Cairo-p1s1w5|SpaceAfter=No
 6	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-ltg-Cairo-p1s1w6
 
@@ -54,7 +54,7 @@
 # text = Jei lyka sovam veiram nūmozguot mašynu.
 1	Jei	jei	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p6s1w1
 2	lyka	likt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p6s1w2
-3	sovam	sovs	DET	ps0msdn	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	4:det	LvtbNodeId=a-ltg-Cairo-p6s1w3
+3	sovam	sovs	PRON	ps0msdn	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	4:det	LvtbNodeId=a-ltg-Cairo-p6s1w3
 4	veiram	veirs	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	2	iobj	2:iobj	LvtbNodeId=a-ltg-Cairo-p6s1w4
 5	nūmozguot	nūmozguot	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	2	ccomp	2:ccomp	LvtbNodeId=a-ltg-Cairo-p6s1w5
 6	mašynu	mašyna	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj	LvtbNodeId=a-ltg-Cairo-p6s1w6|SpaceAfter=No
@@ -74,7 +74,7 @@
 # newpar id = ltg-Cairo-p8
 # sent_id = a-ltg-Cairo-p8s1
 # text = Muns tēte ir foršuoks nakai tovejais.
-1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
+1	Muns	muns	PRON	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
 2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
 3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w3
 4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	3	xcomp	3:xcomp	LvtbNodeId=a-ltg-Cairo-p8s1w4
@@ -135,7 +135,7 @@
 3	ni	ni	PART	q	_	4	advmod:neg	4:advmod:neg	LvtbNodeId=a-ltg-Cairo-p12s1w3
 4	jausmys	jausma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p12s1w4|SpaceAfter=No
 5	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-ltg-Cairo-p12s1w5
-6	kurs	kurs	DET	pr0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	8:nsubj	LvtbNodeId=a-ltg-Cairo-p12s1w6
+6	kurs	kurs	PRON	pr0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	8:nsubj	LvtbNodeId=a-ltg-Cairo-p12s1w6
 7	tū	tys	PRON	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obj	8:obj	LvtbNodeId=a-ltg-Cairo-p12s1w7
 8	pīraksteja	pīraksteit	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	4:acl	LvtbNodeId=a-ltg-Cairo-p12s1w8|SpaceAfter=No
 9	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-ltg-Cairo-p12s1w9
@@ -200,11 +200,11 @@
 5	,	,	PUNCT	zc	_	15	punct	15:punct	LvtbNodeId=a-ltg-Cairo-p17s1w5
 6	bet	bet	CCONJ	cc	_	15	cc	15:cc	LvtbNodeId=a-ltg-Cairo-p17s1w6
 7	koč	koč	PART	q	_	8	advmod:emph	8:advmod:emph	LvtbNodeId=a-ltg-Cairo-p17s1w7
-8	kaida	kaids	DET	pi0msgn	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	LvtbNodeId=a-ltg-Cairo-p17s1w8
+8	kaida	kaids	PRON	pi0msgn	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	9	det	9:det	LvtbNodeId=a-ltg-Cairo-p17s1w8
 9	īmesļa	īmeslis	NOUN	ncmsg2	Case=Gen|Gender=Masc|Number=Sing	15	obl	15:obl:deļ	LvtbNodeId=a-ltg-Cairo-p17s1w9
 10	deļ	deļ	ADP	stsg	_	9	case	9:case	LvtbNodeId=a-ltg-Cairo-p17s1w10
 11	jei	jei	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	LvtbNodeId=a-ltg-Cairo-p17s1w11
-12	tamā	tei	DET	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	13	det	13:det	LvtbNodeId=a-ltg-Cairo-p17s1w12
+12	tamā	tei	PRON	pd3fsln	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	13	det	13:det	LvtbNodeId=a-ltg-Cairo-p17s1w12
 13	dīnā	dīna	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	15	obl	15:obl:loc	LvtbNodeId=a-ltg-Cairo-p17s1w13
 14	tuo	tys	PRON	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	obj	15:obj	LvtbNodeId=a-ltg-Cairo-p17s1w14
 15	naizdareja	naizdareit	VERB	vmnist330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	LvtbNodeId=a-ltg-Cairo-p17s1w15|SpaceAfter=No
@@ -219,7 +219,7 @@
 4	jam	jis	PRON	pp3msdn	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:leidza	LvtbNodeId=a-ltg-Cairo-p18s1w4
 5	leidza	leidza	ADV	r0y	_	4	case	4:case	LvtbNodeId=a-ltg-Cairo-p18s1w5|SpaceAfter=No
 6	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-ltg-Cairo-p18s1w6
-7	partū	partū	ADV	r0n	_	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
+7	partū	partū	ADV	r0n	ExtPos=SCONJ	10	mark	10:mark	LvtbNodeId=a-ltg-Cairo-p18s1w7
 8	ka	ka	SCONJ	cs	_	7	fixed	7:fixed	LvtbNodeId=a-ltg-Cairo-p18s1w8
 9	jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w9
 10	skrēja	skrīt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	LvtbNodeId=a-ltg-Cairo-p18s1w10
@@ -230,7 +230,7 @@
 # newpar id = ltg-Cairo-p19
 # sent_id = a-ltg-Cairo-p19s1
 # text = Itei viestule ir nu Pītera i tyka pīguoduota vakar.
-1	Itei	itei	DET	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p19s1w1
+1	Itei	itei	PRON	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p19s1w1
 2	viestule	viestule	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj|5:nsubj|7:nsubj:pass|8:nsubj:pass	LvtbNodeId=a-ltg-Cairo-p19s1w2
 3	ir	byut	VERB	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p19s1w3
 4	nu	nu	ADP	spsg	_	5	case	5:case	LvtbNodeId=a-ltg-Cairo-p19s1w4

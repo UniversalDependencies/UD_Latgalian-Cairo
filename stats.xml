@@ -14,50 +14,50 @@
   <forms unique="117" /><!-- ., ,, i, ?, jis, tu, Pītera, ir, ni, voi, Mareja, Pīters, bet, jei, ka -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="12">
+  <tags unique="11">
     <tag name="ADJ">5</tag><!-- foršs, lels, mozs, sorkons, tovejs -->
     <tag name="ADP">3</tag><!-- deļ, iz, nu -->
     <tag name="ADV">8</tag><!-- kai, kod, leidza, mudri, partū, puoruok, tod, vakar -->
     <tag name="CCONJ">10</tag><!-- i, bet, ni, voi -->
-    <tag name="DET">7</tag><!-- itei, kaids, kurs, muns, sova, sovs, tei -->
     <tag name="NOUN">27</tag><!-- mašyna, viestule, bronza, bruoļs, draudzine, dzeršona, dīna, golvyspiļsāta, jausma, kruosa -->
     <tag name="PART">5</tag><!-- voi, koč, ni, tik -->
-    <tag name="PRON">19</tag><!-- jis, tu, es, jei, tys, jī, kas -->
+    <tag name="PRON">26</tag><!-- jis, tu, es, jei, tys, itei, jī, kaids, kas, kurs -->
     <tag name="PROPN">15</tag><!-- Pīters, Mareja, Brauna, Džeina, Fraņceja, Igvasu, Parize, Sems, Smits -->
     <tag name="PUNCT">33</tag><!-- ., ,, ?, -, ! -->
     <tag name="SCONJ">3</tag><!-- ka, nakai -->
     <tag name="VERB">35</tag><!-- byut, navarēt, tikt, apgrīzt, apsaskaut, atmest, attaiseit, atīt, ceņstīs, dabuot -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="37">
+  <feats unique="38">
     <feat name="Aspect" value="Perf" upos="VERB">1</feat><!-- pīguoduota -->
     <feat name="Case" value="Acc" upos="NOUN,PRON">16</feat><!-- mašynu, bronzu, dzeršonu, kuo, lūgu, motus, peipiešonu, ritini, statini, sudobru -->
-    <feat name="Case" value="Dat" upos="DET,NOUN,PRON">8</feat><!-- Jai, Jim, Maņ, draudzinei, jam, sovai, sovam, veiram -->
-    <feat name="Case" value="Gen" upos="DET,NOUN,PRON,PROPN">11</feat><!-- Pītera, Braunys, Fraņcejis, Marejis, Smita, jausmys, juo, kaida, īmesļa -->
-    <feat name="Case" value="Loc" upos="ADJ,DET,NOUN,PROPN">6</feat><!-- Parizē, dīnā, golvyspiļsātā, kruosā, sorkonā, tamā -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">31</feat><!-- jis, tu, Mareja, Pīters, jei, Džeina, Es, Itei, Meitine, Muns -->
+    <feat name="Case" value="Dat" upos="NOUN,PRON">8</feat><!-- Jai, Jim, Maņ, draudzinei, jam, sovai, sovam, veiram -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">11</feat><!-- Pītera, Braunys, Fraņcejis, Marejis, Smita, jausmys, juo, kaida, īmesļa -->
+    <feat name="Case" value="Loc" upos="ADJ,NOUN,PRON,PROPN">6</feat><!-- Parizē, dīnā, golvyspiļsātā, kruosā, sorkonā, tamā -->
+    <feat name="Case" value="Nom" upos="ADJ,NOUN,PRON,PROPN,VERB">31</feat><!-- jis, tu, Mareja, Pīters, jei, Džeina, Es, Itei, Meitine, Muns -->
     <feat name="Case" value="Voc" upos="PROPN">1</feat><!-- Sem -->
     <feat name="Definite" value="Def" upos="ADJ">1</feat><!-- tovejais -->
     <feat name="Definite" value="Ind" upos="ADJ,VERB">5</feat><!-- foršuoks, lela, moza, pīguoduota, sorkonā -->
     <feat name="Degree" value="Cmp" upos="ADJ">1</feat><!-- foršuoks -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV,VERB">6</feat><!-- lela, moza, mudri, pīguoduota, sorkonā, tovejais -->
     <feat name="Evident" value="Fh" upos="VERB">26</feat><!-- ir, pīraksteja, Navarēja, apsaskuove, ceņtēs, dabuoja, dūmoj, gribi, izauga, leist -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">33</feat><!-- Mareja, jei, mašynu, Braunys, Džeina, Fraņcejis, Itei, Jai, Jis, Marejis -->
-    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,PRON,PROPN">33</feat><!-- Pītera, jis, Pīters, Jim, Muns, Sem, Smita, bruoļs, foršuoks, jam -->
+    <feat name="ExtPos" value="SCONJ" upos="ADV">1</feat><!-- partū -->
+    <feat name="Gender" value="Fem" upos="ADJ,NOUN,PRON,PROPN,VERB">33</feat><!-- Mareja, jei, mašynu, Braunys, Džeina, Fraņcejis, Itei, Jai, Jis, Marejis -->
+    <feat name="Gender" value="Masc" upos="ADJ,NOUN,PRON,PROPN">33</feat><!-- Pītera, jis, Pīters, Jim, Muns, Sem, Smita, bruoļs, foršuoks, jam -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- attaisi -->
     <feat name="Mood" value="Ind" upos="VERB">26</feat><!-- ir, pīraksteja, Navarēja, apsaskuove, ceņtēs, dabuoja, dūmoj, gribi, izauga, leist -->
     <feat name="Number" value="Plur" upos="NOUN,PRON">3</feat><!-- Jim, motus, sābri -->
-    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">75</feat><!-- jis, tu, Pītera, Mareja, Pīters, jei, mašynu, Braunys, Džeina, Es -->
+    <feat name="Number" value="Sing" upos="ADJ,NOUN,PRON,PROPN,VERB">75</feat><!-- jis, tu, Pītera, Mareja, Pīters, jei, mašynu, Braunys, Džeina, Es -->
     <feat name="Person" value="1" upos="PRON,VERB">3</feat><!-- Es, Maņ, navarieju -->
     <feat name="Person" value="2" upos="PRON,VERB">9</feat><!-- tu, attaisi, dūmoj, gribi, variesi, verīs -->
-    <feat name="Person" value="3" upos="DET,PRON,VERB">35</feat><!-- jis, ir, jei, pīraksteja, Itei, Jai, Jim, Navarēja, apsaskuove, ceņtēs -->
+    <feat name="Person" value="3" upos="PRON,VERB">35</feat><!-- jis, ir, jei, pīraksteja, Itei, Jai, Jim, Navarēja, apsaskuove, ceņtēs -->
     <feat name="Polarity" value="Neg" upos="VERB">4</feat><!-- Navarēja, naizdareja, nav, navarieju -->
     <feat name="Polarity" value="Pos" upos="VERB">31</feat><!-- ir, pīraksteja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja, dūmoj -->
-    <feat name="Poss" value="Yes" upos="DET">3</feat><!-- Muns, sovai, sovam -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">4</feat><!-- Itei, tamā, tuo, tū -->
-    <feat name="PronType" value="Ind" upos="DET">1</feat><!-- kaida -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">19</feat><!-- jis, tu, jei, Es, Jai, Jim, Maņ, Muns, jam, juo -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">2</feat><!-- kuo, kurs -->
+    <feat name="Poss" value="Yes" upos="PRON">3</feat><!-- Muns, sovai, sovam -->
+    <feat name="PronType" value="Dem" upos="PRON">4</feat><!-- Itei, tamā, tuo, tū -->
+    <feat name="PronType" value="Ind" upos="PRON">1</feat><!-- kaida -->
+    <feat name="PronType" value="Prs" upos="PRON">19</feat><!-- jis, tu, jei, Es, Jai, Jim, Maņ, Muns, jam, juo -->
+    <feat name="PronType" value="Rel" upos="PRON">2</feat><!-- kuo, kurs -->
     <feat name="Reflex" value="Yes" upos="VERB">4</feat><!-- apsaskuove, ceņtēs, ruodīs, verīs -->
     <feat name="Tense" value="Fut" upos="VERB">1</feat><!-- variesi -->
     <feat name="Tense" value="Past" upos="VERB">17</feat><!-- pīraksteja, Navarēja, apsaskuove, ceņtēs, dabuoja, izauga, lyka, naizdareja, navarieju, nūkruosuoja -->
