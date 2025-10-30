@@ -19,6 +19,8 @@ This work was supported by the State Research Programme's project [Research on M
 
 
 # Changelog
+* 2025-11-15 v2.17
+  * _byut_ is an AUX.
 * 2025-05-15 v2.16
   * Introduced `ExtPos` feature.
 * 2024-11-15 v2.15
