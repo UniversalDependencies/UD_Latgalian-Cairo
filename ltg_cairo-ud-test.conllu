@@ -1,6 +1,7 @@
 # newdoc id = ltg-Cairo
 # newpar id = ltg-Cairo-p1
 # sent_id = a-ltg-Cairo-p1s1
+# parallel_id = cairo/1
 # text = Meitine pīraksteja viestuli sovai draudzinei.
 1	Meitine	meitine	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p1s1w1
 2	pīraksteja	raksteit	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p1s1w2
@@ -11,6 +12,7 @@
 
 # newpar id = ltg-Cairo-p2
 # sent_id = a-ltg-Cairo-p2s1
+# parallel_id = cairo/2
 # text = Maņ ruodīs, ka leist leits.
 1	Maņ	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-ltg-Cairo-p2s1w1
 2	ruodīs	ruodeitīs	VERB	vmyipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p2s1w2|SpaceAfter=No
@@ -22,6 +24,7 @@
 
 # newpar id = ltg-Cairo-p3
 # sent_id = a-ltg-Cairo-p3s1
+# parallel_id = cairo/3
 # text = Jis ceņtēs atmest peipiešonu i dzeršonu.
 1	Jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-ltg-Cairo-p3s1w1
 2	ceņtēs	ceņstīs	VERB	voyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p3s1w2
@@ -33,6 +36,7 @@
 
 # newpar id = ltg-Cairo-p4
 # sent_id = a-ltg-Cairo-p4s1
+# parallel_id = cairo/4
 # text = Voi tu gribi īt?
 1	Voi	voi	PART	q	_	3	discourse	3:discourse	LvtbNodeId=a-ltg-Cairo-p4s1w1
 2	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-ltg-Cairo-p4s1w2
@@ -42,6 +46,7 @@
 
 # newpar id = ltg-Cairo-p5
 # sent_id = a-ltg-Cairo-p5s1
+# parallel_id = cairo/5
 # text = Sem, attaisi lūgu!
 1	Sem	Sems	PROPN	npmsv1	Case=Voc|Gender=Masc|Number=Sing	3	vocative	3:vocative	LvtbNodeId=a-ltg-Cairo-p5s1w1|SpaceAfter=No
 2	,	,	PUNCT	zc	_	1	punct	1:punct	LvtbNodeId=a-ltg-Cairo-p5s1w2
@@ -51,6 +56,7 @@
 
 # newpar id = ltg-Cairo-p6
 # sent_id = a-ltg-Cairo-p6s1
+# parallel_id = cairo/6
 # text = Jei lyka sovam veiram nūmozguot mašynu.
 1	Jei	jei	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p6s1w1
 2	lyka	likt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p6s1w2
@@ -62,6 +68,7 @@
 
 # newpar id = ltg-Cairo-p7
 # sent_id = a-ltg-Cairo-p7s1
+# parallel_id = cairo/7
 # text = Pītera sābri nūkruosuoja statini sorkonā kruosā.
 1	Pītera	Pīters	PROPN	npmsg1	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-ltg-Cairo-p7s1w1
 2	sābri	sābris	NOUN	ncmpn2	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	LvtbNodeId=a-ltg-Cairo-p7s1w2
@@ -73,6 +80,7 @@
 
 # newpar id = ltg-Cairo-p8
 # sent_id = a-ltg-Cairo-p8s1
+# parallel_id = cairo/8
 # text = Muns tēte ir foršuoks nakai tovejais.
 1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
 2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
@@ -84,6 +92,7 @@
 
 # newpar id = ltg-Cairo-p9
 # sent_id = a-ltg-Cairo-p9s1
+# parallel_id = cairo/9
 # text = Mareja dabuoja bronzu, Pīters – sudobru, i Džeina – zaltu.
 1	Mareja	Mareja	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p9s1w1
 2	dabuoja	dabuot	VERB	vmnist230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p9s1w2
@@ -103,6 +112,7 @@
 
 # newpar id = ltg-Cairo-p10
 # sent_id = a-ltg-Cairo-p10s1
+# parallel_id = cairo/10
 # text = Voi Igvasu ir lela voi moza vaļsts?
 1	Voi	voi	PART	q	_	7	discourse	7:discourse	LvtbNodeId=a-ltg-Cairo-p10s1w1
 2	Igvasu	Igvasu	PROPN	np0000	_	7	nsubj	7:nsubj	LvtbNodeId=a-ltg-Cairo-p10s1w2
@@ -115,6 +125,7 @@
 
 # newpar id = ltg-Cairo-p11
 # sent_id = a-ltg-Cairo-p11s1
+# parallel_id = cairo/11
 # text = Navarēja izalaseit ni Pītera Smita, ni Marejis Braunys.
 1	Navarēja	navarēt	VERB	vonisi330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p11s1w1
 2	izalaseit	izalaseit	VERB	vmnn0t3000n	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	LvtbNodeId=a-ltg-Cairo-p11s1w2
@@ -129,6 +140,7 @@
 
 # newpar id = ltg-Cairo-p12
 # sent_id = a-ltg-Cairo-p12s1
+# parallel_id = cairo/12
 # text = Jim nav ni jausmys, kurs tū pīraksteja.
 1	Jim	jis	PRON	pp3mpdn	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-ltg-Cairo-p12s1w1
 2	nav	nabyut	VERB	vmnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p12s1w2
@@ -142,6 +154,7 @@
 
 # newpar id = ltg-Cairo-p13
 # sent_id = a-ltg-Cairo-p13s1
+# parallel_id = cairo/13
 # text = Iz kuo tu verīs?
 1	Iz	iz	ADP	spsa	_	2	case	2:case	LvtbNodeId=a-ltg-Cairo-p13s1w1
 2	kuo	kas	PRON	pr000an	Case=Acc|PronType=Rel	4	obl	4:obl:iz	LvtbNodeId=a-ltg-Cairo-p13s1w2
@@ -151,6 +164,7 @@
 
 # newpar id = ltg-Cairo-p14
 # sent_id = a-ltg-Cairo-p14s1
+# parallel_id = cairo/14
 # text = Kai tu dūmoj, kod tu variesi atīt?
 1	Kai	kai	ADV	r0n	PronType=Int	3	advmod	3:advmod	LvtbNodeId=a-ltg-Cairo-p14s1w1
 2	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-ltg-Cairo-p14s1w2
@@ -164,6 +178,7 @@
 
 # newpar id = ltg-Cairo-p15
 # sent_id = a-ltg-Cairo-p15s1
+# parallel_id = cairo/15
 # text = Jis nūpierka mašynu, bet juo bruoļs tik ritini.
 1	Jis	jis	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p15s1w1
 2	nūpierka	nūpierkt	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p15s1w2
@@ -179,6 +194,7 @@
 
 # newpar id = ltg-Cairo-p16
 # sent_id = a-ltg-Cairo-p16s1
+# parallel_id = cairo/16
 # text = Pīters i Mareja apsaskuove i tod pamete ustobu.
 1	Pīters	Pīters	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj|7:nsubj	LvtbNodeId=a-ltg-Cairo-p16s1w1
 2	i	i	CCONJ	cc	_	3	cc	3:cc	LvtbNodeId=a-ltg-Cairo-p16s1w2
@@ -192,6 +208,7 @@
 
 # newpar id = ltg-Cairo-p17
 # sent_id = a-ltg-Cairo-p17s1
+# parallel_id = cairo/17
 # text = Jai vajadzēja apgrīzt motus, bet koč kaida īmesļa deļ jei tamā dīnā tuo naizdareja.
 1	Jai	jī	PRON	pp3fsdn	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-ltg-Cairo-p17s1w1
 2	vajadzēja	vajadzēt	VERB	vonisi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p17s1w2
@@ -212,6 +229,7 @@
 
 # newpar id = ltg-Cairo-p18
 # sent_id = a-ltg-Cairo-p18s1
+# parallel_id = cairo/18
 # text = Es navarieju tikt jam leidza, partū ka jis skrēja puoruok mudri.
 1	Es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|3:nsubj	LvtbNodeId=a-ltg-Cairo-p18s1w1
 2	navarieju	navarēt	VERB	vonisi31say	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p18s1w2
@@ -229,6 +247,7 @@
 
 # newpar id = ltg-Cairo-p19
 # sent_id = a-ltg-Cairo-p19s1
+# parallel_id = cairo/19
 # text = Itei viestule ir nu Pītera i tyka pīguoduota vakar.
 1	Itei	itei	DET	pd3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p19s1w1
 2	viestule	viestule	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj|7:nsubj:pass|8:nsubj:pass	LvtbNodeId=a-ltg-Cairo-p19s1w2
@@ -243,6 +262,7 @@
 
 # newpar id = ltg-Cairo-p20
 # sent_id = a-ltg-Cairo-p20s1
+# parallel_id = cairo/20
 # text = Jis izauga Parizē, Fraņcejis golvyspiļsātā.
 1	Jis	jis	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p20s1w1
 2	izauga	izaugt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p20s1w2
