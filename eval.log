@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Latgalian-Cairo:
-commit 3092778839272c3f7e92668694d0b279c1f4179e
-Merge: 8323cc6 ee0399d
+commit 3ba8188a5a0a6a2009c388ccd6fd7d60e5e46d9a
+Merge: 00c71f6 5445da2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ltg_cairo'
+Language code (from CoNLL-U file name) = 'ltg'
+Found the following data files: ltg_cairo-ud-test.conllu
 Size: counted 170 of 170 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -13,28 +17,23 @@ Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 11 out of 17 found in the corpus.
+Universal POS tags: 13 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 109 out of 170 total words have one or more features.
+Features: 114 out of 170 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 25 out of 37 found in the corpus.
+Universal relations: 26 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL          0
-Udapi: found 0 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 170 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ltg --max-err=10 UD_Latgalian-Cairo/ltg_cairo-ud-test.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0) = 0
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.517647058823529) = 0.0398190045248869
-(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.540540540540541) = 0.0415800415800416
-(TOTAL score=0.532339217045099) * (availability=1) * (validity=1) = 0.532339217045099
-STARS = 2.5
-UD_Latgalian-Cairo	0.532339217045099	2.5
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0) = 0
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.611764705882353) = 0.0679738562091503
+(weight=0.111111111111111) * (score{udeprels}=0.562162162162162) = 0.0624624624624625
+(TOTAL score=0.337349898918526) * (availability=1) * (validity=1) = 0.337349898918526
+STARS = 1.5
+UD_Latgalian-Cairo	0.337349898918526	1.5
