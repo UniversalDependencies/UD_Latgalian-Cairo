@@ -5,7 +5,7 @@ UD_Latgalian-Cairo is an example treebank to provide minimal dataset for Latgali
 
 # Introduction
 
-This treebank was developed as a proof-of-concept by the team developing Latvian UD Treebank (UD_Latvian-LVTB). It contains the 20 Cairo example sentences and is as far as we are know the only Latgalian treebank in existance.
+This treebank was developed as a proof-of-concept by the team developing Latvian UD Treebank (UD_Latvian-LVTB). It contains the 20 Cairo example sentences and as far as we know is the only Latgalian treebank in existance.
 
 
 # Acknowledgments
