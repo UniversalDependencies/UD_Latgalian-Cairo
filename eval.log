@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Latgalian-Cairo:
-commit 3ba8188a5a0a6a2009c388ccd6fd7d60e5e46d9a
-Merge: 00c71f6 5445da2
+commit a1aaacc5523d0a470d7bc27325bae4b9f75ba94b
+Merge: 8eb46e5 1e0e535
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ltg_cairo'
